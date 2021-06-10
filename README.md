@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?username=K22shah)
+
 
 
 - 🔭 I’m currently working on ...
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
