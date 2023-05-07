@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal22shah&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal22shah&hide_progress=false)](https://github.com/kunal22shah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal22shah&hide_progress=true)](https://github.com/kunal22shah/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=K22shah&style=flat-square)
